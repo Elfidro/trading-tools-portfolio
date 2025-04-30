@@ -23,7 +23,18 @@ This portfolio repository highlights selected components from two personal proje
 
 ## 📁 Repo Structure
 
-trading-tools-portfolio/ ├── multitool/ │ ├── price_analyzer.py │ ├── item_parser.py │ └── README_multitool.md ├── bot/ │ ├── trade_bot.js │ ├── chat_commands.js │ └── README_bot.md └── architecture.md
+trading-tools-portfolio/
+├── multitool/
+│   ├── price_analyzer.py
+│   ├── item_parser.py
+│   └── README_multitool.md
+├── bot/
+│   ├── trade_bot.js
+│   ├── chat_commands.js
+│   └── README_bot.md
+├── architecture.md
+├── LICENSE
+└── README.md
 
 
 ---
